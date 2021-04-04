@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_architecture
 
 A Flutter application to explore a MVVM architecture using the stacked package.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_architecture_sample
+How to use the “stacked” package by FilledStacks
+>>>>>>> fa055be903e4446d29c607eab75b28bb2424ab94
